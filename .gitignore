@@ -1,0 +1,3 @@
+secret_creds.env
+*.log
+build/
